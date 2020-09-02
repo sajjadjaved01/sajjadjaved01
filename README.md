@@ -32,6 +32,9 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sajjadjaved01&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
 
+<br/>
+<br/>
+
 - 🔭 I’m currently working on React Native...
 - 🌱 I’m currently learning more about React Native & Flutter...
 - 💬 Ask me about Android ...
