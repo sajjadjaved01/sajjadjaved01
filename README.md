@@ -21,7 +21,7 @@
 
 ### 🚀 About Me
 
-I'm a **Full Stack Mobile Developer** with **6+ years of experience**, specializing in **Flutter, React Native, and Native Android development**. My expertise lies in building **scalable, high-performance applications** with a strong focus on **UI/UX, geolocation services, push notifications, and native integrations**.
+I'm a **Full Stack Mobile | Web Developer** with **6+ years of experience**, specializing in **Flutter, React Native, and Native Android development**. My expertise lies in building **scalable, high-performance applications** with a strong focus on **UI/UX, geolocation services, push notifications, and native integrations**.
 
 ### 🔥 Tech Stack & Skills
 
